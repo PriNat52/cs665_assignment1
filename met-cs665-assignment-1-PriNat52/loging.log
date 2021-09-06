@@ -1,0 +1,7 @@
+11 Jul 2021 18:08:44,317 INFO  - Doe,Doe
+11 Jul 2021 18:08:44,321 TRACE - This is a Trace Message for illustration purpose only! This is the highest level which prints all trace, debug, info, warn, error and fatal logs.
+11 Jul 2021 18:08:44,321 DEBUG - This is a Debug Message for illustration purpose only! This log level prints debug, info, warn, error and fatal logs.
+11 Jul 2021 18:08:44,321 INFO  - This is a Info Message for illustration purpose only! This log level prints info, warn, error and fatal logs.
+11 Jul 2021 18:08:44,322 WARN  - This is a Warn Message for illustration purpose only! This log level prints warn, error and fatal logs.
+11 Jul 2021 18:08:44,323 ERROR - This is a Error Message for illustration purpose only! This log level prints error and fatal logs.
+11 Jul 2021 18:08:44,324 FATAL - This is a Fatal Message for illustration purpose only! This log level is the lowest level, and prints only fatal logs.
